@@ -98,6 +98,7 @@ p {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  max-width: 100%;
 }
 
 .primary-link {
